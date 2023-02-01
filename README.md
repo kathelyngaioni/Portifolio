@@ -22,3 +22,5 @@
 • height : altura
 
 • box-sizing: border-box : foi usado no projeto para que a imagem não "saia" do body.
+
+• Google Fonts é uma biblioteca da Google com mais de 1000 fontes livres licenciadas. Além de um diretório web interativo para navegar na biblioteca, existem atalhos para usar convenientemente as fontes através do CSS.
