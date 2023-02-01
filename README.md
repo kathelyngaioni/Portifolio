@@ -16,3 +16,7 @@
 • padding: 10px; (Espaçamento interno de 10px)
 
 • border: 1px solid #22D4FD; (Borda com 1 px de largura, do tipo sólida e cor da borda azul)
+
+• O * é usado como seletor para a toda a página.
+
+• height : altura
