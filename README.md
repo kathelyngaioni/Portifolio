@@ -20,3 +20,5 @@
 • O * é usado como seletor para a toda a página.
 
 • height : altura
+
+• box-sizing: border-box : foi usado no projeto para que a imagem não "saia" do body.
