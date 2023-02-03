@@ -24,3 +24,7 @@
 • box-sizing: border-box : foi usado no projeto para que a imagem não "saia" do body.
 
 • Google Fonts é uma biblioteca da Google com mais de 1000 fontes livres licenciadas. Além de um diretório web interativo para navegar na biblioteca, existem atalhos para usar convenientemente as fontes através do CSS.
+
+• gap : distancia entre os elementos.
+
+• Hover : O :hover seletor é usado para selecionar elementos quando você passa o mouse sobre eles. Dica: O seletor :hover pode ser usado em todos os elementos, não apenas nos links.

@@ -51,6 +51,9 @@ body {
   font-size: 24px;
 }
 .apresentacao__links__link {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
   color:#F6F6F6;
   width: 381px;
   text-align: center;
@@ -62,4 +65,8 @@ body {
   text-decoration: none;
   font-weight: 600;
   
+}
+
+.apresentacao__links__link:hover {
+  background-color : #272727;
 }
