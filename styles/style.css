@@ -96,6 +96,7 @@ body {
   padding: 1.34rem 0;
   text-decoration: none;
   font-weight: 600;
+
   
 }
 
@@ -130,5 +131,8 @@ body {
   .apresentacao__conteudo {
     width: auto;
     /*width: 100%*/
+  }
+  apreentacao__links__link {
+      width: auto;
   }
 }
